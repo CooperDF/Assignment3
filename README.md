@@ -1,0 +1,1 @@
+This project automatically takes tweets with the #forsale with a vehicle manufacturer name and takes the location data and puts a marker on a google map to locate vehicles for sale across the country.
